@@ -35,5 +35,4 @@ contract Whitelist {
         // Increase the number of whitelisted addresses
         numAddressesWhitelisted += 1;
     }
-
 }
